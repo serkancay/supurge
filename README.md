@@ -26,4 +26,5 @@ c: CONTAINS: Verilen değeri içerenleri bulur.<br>
 supurge bulduğu dosya/dizinleri listeler ve silmek isteyip istemediğinizi sorar. Bulunan dosya/dizinleri dikkatle incelemeniz
 size yarar sağlayacaktır. Özellikle Arama-Silme türünün dosya mı dizin mi olduğuna çok dikkat edin. Örneğin sisteminizden
 belirli dosyaları silmek istediniz ama Arama-Silme türünü d(DIRECTORY) yaptınız. Belirttiğiniz kriterlere uygun dizinler ve alt
-dizinleri silinir.
+dizinleri silinir. <br>
+Depoda Test adında bir dizin vardır. Bu dizinde test etmeniz için gereken dosya ve alt dizinler bulunmaktadır. Kullanıma başlamadan önce burada küçük testler yapmak yararınıza olacaktır.
