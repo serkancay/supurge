@@ -2,7 +2,7 @@
 supurge ile silmek istediğiniz dosya veya dizinleri nokta atışıyla silebilirsiniz.
 <h2>KURULUM</h2>
 ~$ git clone https://github.com/serkancay/supurge <br>
-~$ cd supurge
+~$ cd supurge <br>
 ~$ chmod +x supurge.sh
 
 <h2>KULLANIM</h2>
