@@ -50,6 +50,6 @@ case "$choice" in
    e|E ) printf "Siliniyor!..\n"
 	 find "$pval" -name "$word" -type "$tval" -exec rm -rf {} +
 	 printf "Silme islemi basariyla tamamlandi!\n";;
-   h|H ) echo "Vazgectiniz.\n";;
-   * ) echo "Hatali secim.\n";;
+   h|H ) printf "Vazgectiniz.\n";;
+   * ) printf "Hatali secim.\n";;
 esac
